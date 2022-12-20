@@ -2,14 +2,14 @@
 @prefix ns0: <http://webns.net/mvcb/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-<https://drive.google.com/file/d/1or9ByaiUcxGRkyz-yJov6oLoxK2tZ-FC/view?usp=sharing>
+<https://github.com/gorgievskiff/wbs/blob/master/foaf.ttl>
   a foaf:PersonalProfileDocument ;
-  foaf:maker <https://drive.google.com/file/d/1or9ByaiUcxGRkyz-yJov6oLoxK2tZ-FC/view?usp=sharing#me> ;
-  foaf:primaryTopic <https://drive.google.com/file/d/1or9ByaiUcxGRkyz-yJov6oLoxK2tZ-FC/view?usp=sharing#me> ;
+  foaf:maker <https://github.com/gorgievskiff/wbs/blob/master/foaf.ttl#me> ;
+  foaf:primaryTopic <https://github.com/gorgievskiff/wbs/blob/master/foaf.ttl#me> ;
   ns0:generatorAgent <http://www.ldodds.com/foaf/foaf-a-matic> ;
   ns0:errorReportsTo <mailto:leigh@ldodds.com> .
 
-<https://drive.google.com/file/d/1or9ByaiUcxGRkyz-yJov6oLoxK2tZ-FC/view?usp=sharing#me>
+<https://github.com/gorgievskiff/wbs/blob/master/foaf.ttl#me>
   a foaf:Person ;
   foaf:name "Filip Gjorgjievski" ;
   foaf:title "Mr" ;
@@ -17,9 +17,9 @@
   foaf:family_name "Gjorgjievski" ;
   foaf:nick "gorgievskiff" ;
   foaf:mbox_sha1sum "80a63637c4c54d4459c23902b82aa554edf4651c" ;
-  foaf:workplaceHomepage <https://drive.google.com/file/d/1or9ByaiUcxGRkyz-yJov6oLoxK2tZ-FC/ins.com.mk> ;
-  foaf:workInfoHomepage <https://drive.google.com/file/d/1or9ByaiUcxGRkyz-yJov6oLoxK2tZ-FC/GIS software development> ;
-  foaf:schoolHomepage <https://drive.google.com/file/d/1or9ByaiUcxGRkyz-yJov6oLoxK2tZ-FC/FINKI> ;
+  foaf:workplaceHomepage <https://github.com/gorgievskiff/wbs/blob/master/ins.com.mk> ;
+  foaf:workInfoHomepage <https://github.com/gorgievskiff/wbs/blob/master/GIS software development> ;
+  foaf:schoolHomepage <https://github.com/gorgievskiff/wbs/blob/master/FINKI> ;
   foaf:knows [
     a foaf:Person ;
     foaf:name "Dario" ;
